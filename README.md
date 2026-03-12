@@ -1,5 +1,5 @@
-# fake-news-detection
-fake news detection 
+fake-news-detection
+ 
 ## Project Overview
 
 TruthChain is a system designed to detect fake news using Artificial Intelligence and store verification results on blockchain to ensure transparency and prevent tampering.
