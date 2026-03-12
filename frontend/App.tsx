@@ -4,7 +4,6 @@ import { AnalysisResults } from "./components/AnalysisResults";
 import { analyzeNews } from "./utils/analyzer";
 import { AnalysisResult } from "./types/analysis";
 import { Shield, AlertTriangle } from "lucide-react";
-import newspaperBg from "figma:asset/dc54ae25f08f994c01b50cf489ff41265ea7a42b.png";
 
 export default function App() {
   const [result, setResult] = useState<AnalysisResult | null>(
